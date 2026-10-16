@@ -1,5 +1,5 @@
 # Project Froyo — APBn Squad Message Portal
-### Native Android Client · Retro Desktop Interface · Connected Messaging
+### Native Android App Edition · Connected Messaging
 
 <p align="center">
   <strong>A dedicated Android client for the APBn Squad messaging ecosystem.</strong>
@@ -665,7 +665,7 @@ The web portal and Android client provide separate interfaces to the APBn Squad 
   <br>
   APBn Squad Message Portal
   <br><br>
-  Native Android · Retro Interface Engineering · Messaging Infrastructure
+  Native Android · Messaging Infrastructure
   <br>
   <em>Developed by Fahad Al-Belal</em>
 </p>
