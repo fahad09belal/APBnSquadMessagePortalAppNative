@@ -1,0 +1,14 @@
+
+# Local build files and signing keys
+.gradle/
+**/.gradle/
+my-upload-key.jks
+
+# Local build files and signing keys
+.gradle/
+**/.gradle/
+my-upload-key.jks
+
+# Nested Git repositories
+/APBn-Squad-Message-Portal-App-Native/
+/APBn-Squad-Message-Portal-App-Native-/

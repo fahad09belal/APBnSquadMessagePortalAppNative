@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APBn Squad Message Portal</string>
+    <string name="full_app_title">APBn Squad Message Portal</string>
+    <string name="notification_channel_name">Portal Messages</string>
+    <string name="notification_channel_desc">Notifications for new messages from APBn Squad Portal</string>
+    <string name="service_notification_title">APBn Squad Portal Service</string>
+    <string name="service_notification_desc">Monitoring incoming messages in background</string>
+    <string name="sync_channel_name">APBn Squad Background Sync</string>
+    <string name="sync_channel_desc">Maintains background connection for incoming squad messages</string>
+</resources>
